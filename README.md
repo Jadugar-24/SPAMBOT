@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-[<img src="https://telegra.ph/file/6c32d6bff1244f0972640.jpg"/>]
+[<img src="https://telegra.ph/file/0568faa16980206bdb501.jpg"/>]
 
 > ⭐️ Thanks to everyone for using this op ˹𝕁𝔸𝔻𝕌𝔾𝔸ℝ ✘ 𝕊ℙ𝔸𝕄˼🫧. That is the greatest pleasure we have !
 
@@ -23,6 +23,6 @@
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-<a href="https://t.me/BWANDARLOK"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/MRITYUY"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 </details>
