@@ -1,5 +1,5 @@
 {
-    "name": "˹𝕆𝕩𝕪𝕘𝕖𝕟 ꭙ 𝕊𝕡𝕒𝕞˼🫧",
+    "name": "˹𝕁𝔸𝔻𝕌𝔾𝔸ℝ ꭙ 𝕊𝕡𝕒𝕞˼🫧",
     "logo": "https://telegra.ph/file/6c32d6bff1244f0972640.jpg",
     "keywords": [
         "telegram",
@@ -62,7 +62,7 @@
       },
       "CMD_HNDLR": {
         "description": "Custom command handler.",
-        "value": ".",
+        "value": "/",
         "required": false
       },
       "SUDO_USERS": {
