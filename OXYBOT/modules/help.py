@@ -3,7 +3,7 @@ from telethon import events, Button
 from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, CMD_HNDLR as hl
 
 
-HELP_STRING = f"˹˹𝔸𝕊𝕊𝔸𝕌𝕃𝕋 ꭙ 𝕊ℙ𝔸𝕄˼🫧 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **𝐂𝐋𝐈𝐂𝐊 𝐎𝐍 𝐁𝐔𝐓𝐓𝐎𝐍 𝐅𝐎𝐑 𝐇𝐄𝐋𝐏**\n» **𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥: ˹˹˹𝕁𝔸𝔻𝕌𝔾𝔸ℝ ꭙ 𝕊ℙ𝔸𝕄˼🫧**"
+HELP_STRING = f"˹𝕁𝔸𝔻𝕌𝔾𝔸ℝ ꭙ 𝕊ℙ𝔸𝕄˼🫧 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **𝐂𝐋𝐈𝐂𝐊 𝐎𝐍 𝐁𝐔𝐓𝐓𝐎𝐍 𝐅𝐎𝐑 𝐇𝐄𝐋𝐏**\n» **𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥: ˹𝕁𝔸𝔻𝕌𝔾𝔸ℝ ꭙ 𝕊ℙ𝔸𝕄˼🫧**"
 
 HELP_BUTTON = [
     [
