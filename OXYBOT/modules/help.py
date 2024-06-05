@@ -14,8 +14,8 @@ HELP_BUTTON = [
       Button.inline("★𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦★", data="extra")
     ],
     [
-      Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/JADUUGARR") ,
-      Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", "https://t.me/BWANDERLOK_OFFICIAL_24")
+      Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/PM_Ddas") ,
+      Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", "https://t.me/ANANTLOK")
     ],
   [   
       Button.inline("★𝗡𝗘𝗪 𝗖𝗢𝗠𝗠𝗔𝗡𝗗★", data="yash")
@@ -181,8 +181,8 @@ async def helpback(event):
                 Button.inline("★𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦★", data="extra")
               ],
               [
-                Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/JADUUGARR"),
-                Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", ""https://t.me/BWANDERLOK_OFFICIAL_24")
+                Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/PM_Ddas"),
+                Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", "https://t.me/ANANTLOK")
               ]
             ]
           )
